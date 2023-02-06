@@ -1,12 +1,12 @@
 ## Olá! sou o Breno, estudante programção Back-End!!
 
 - 🔭 Data science ...
-- 🌱 Estudando Python| Pandas| NumPy| Java ...
+- 🌱 Estudando Python| Pandas| NumPy| Java | ...
 - 📫 Contate-me no e-mail: brenosouza512@gmail.com...
 
 <div>
 <a href="https://https://github.com/Bren0512">
-<img width="40%" src="https://github-readme-stats.vercel.app/api?username=bren0512&show_icons=true&theme=tokyonight&count_private=true"/>
+<img width="39%" src="https://github-readme-stats.vercel.app/api?username=bren0512&show_icons=true&theme=tokyonight&count_private=true"/>
 <img width="50%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=bren0512&layout=compact&theme=tokyonight&hide"/>
 <div>
 
