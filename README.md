@@ -1,7 +1,7 @@
 ## Olá! Sou o Breno!!
 
 📕
-- Ao despertar minha paixão pela cultura data-driven, me aprofundei na área de análise e ciência de dados, aprimorando minhas habilidades em coleta, análise e visualização de dados, desenvolvendo meu pensamento analítico. Atulmente curasando a formação Google Date Analytics.
+- Ao despertar minha paixão pela cultura data-driven, me aprofundei na área de análise e ciência de dados, aprimorando minhas habilidades em coleta, análise e visualização de dados, e desenvolvendo meu pensamento analítico. Atulmente, cursando a formação Google Date Analytics.
 
 📫 
 - E-mail: brenosouza512@gmail.com
@@ -9,23 +9,14 @@
  ## 
  <html>
   <div style="display: inline_block">
-    <a href="https://www.linkedin.com/in/breno-sz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="mailto:brenosouza512@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+    <a href="https://www.linkedin.com/in/breno-sz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzBxrpxLSnNLwhdrKdxkDDZhqpdJVtCClSWgxtLXpMWxxbJQNwCjLsZjnhzlxZPSdCsXBCT"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   </div>
 
   <div>
     <a href="https://github.com/breno-sz">
     <img align="center" width="46%" src="https://github-readme-stats.vercel.app/api?username=bren0512&show_icons=true&theme=tokyonight&count_private=true"/>
     <img align="center" width="48%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=bren0512&layout=compact&theme=tokyonight&hide"/>
-  </div>
-
-  <div style="display: inline_block"><br> 
-    <img align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-    <img align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"/>
-    <img align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-    <img align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    <img align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-    <img align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   </div>
 
   ##
