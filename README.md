@@ -1,7 +1,7 @@
 ## Olá! Sou o Breno!!
 
 📕
-- Ao despertar minha paixão pela cultura data-driven, me aprofundei na área de análise e ciência de dados para transformar dados em insights de negócios, aprimorando minhas habilidades em coleta, análise e visualização de dados, e desenvolvendo meu pensamento analítico. Atulmente, cursando a formação Google Date Analytics.
+- Ao despertar minha paixão pela cultura data-driven, me aprofundei na área de análise e ciência de dados para transformar dados em insights de negócios. Aprimorando minhas habilidades em coleta, análise e visualização de dados e desenvolvendo meu pensamento analítico. Atulmente, cursando a formação Google Date Analytics.
 
 📫 
 - E-mail: brenosouza512@gmail.com
