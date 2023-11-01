@@ -5,7 +5,8 @@
 <div style="text-align: center;">
    <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=breno-sz&theme=tokyonight" target="_blank"></a>
 </div>
- 
+<br>
+
 📚 Atualmente, estou estudando: 
 
 <div style="text-align: center;">
